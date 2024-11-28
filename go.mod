@@ -1,4 +1,4 @@
-module idkit-go
+module  github.com/mono424/idkit-go
 
 go 1.23.0
 
