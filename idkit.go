@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"idkit-go/models"
+	"github.com/mono424/idkit-go/models"
 	"net/http"
 	"strings"
 )
